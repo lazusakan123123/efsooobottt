@@ -1,0 +1,22 @@
+{
+	"junk": {
+		"symbol": "🔧 Çöp",
+		"max": 5,
+		"min": 0
+	},
+	"common": {
+		"symbol": "🐟 Hamsi",
+		"max": 50,
+		"min": 10
+	},
+	"uncommon": {
+		"symbol": "🐠 Paylaço Balığı",
+		"max": 200,
+		"min": 100
+	},
+	"rare": {
+		"symbol": "🐡 Balon Balığı",
+		"max": 500,
+		"min": 300
+	}
+}
